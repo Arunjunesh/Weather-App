@@ -22,7 +22,8 @@ This app allows users to search for any city worldwide and get real-time weather
 3. Weather information is displayed instantly.  
 
 ## 📸 Screenshot  
-(Add a screenshot of your app here, e.g. `![Weather App Screenshot](screenshot.png)`)  
+
+<img width="760" height="786" alt="Screenshot 2025-10-03 135133" src="https://github.com/user-attachments/assets/0c8c4373-2ccb-484d-bec7-6c7f90137360" />
 
 ## 🔗 Live Demo  
 
